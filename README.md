@@ -1,5 +1,5 @@
 # CinemaApplication
-It is A simple cinema java application that is created using  <br>
+It is a simple cinema java application that is created using  <br>
 Programming Language : <strong>Java</strong> <br>
 Platfrom: <strong> Netbeans </strong> <br>
 
